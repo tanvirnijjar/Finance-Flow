@@ -1,4 +1,4 @@
- [4:41 pm, 28/6/2026] Tanvir Kaur: .settings-page{
+.settings-page{
     padding:30px;
 }
 
@@ -43,7 +43,8 @@
 .about{
     text-align:center;
 }
-[4:46 pm, 28/6/2026] Tanvir Kaur: @media (max-width: 992px){
+    
+    @media (max-width: 992px){
 
 .container{
     flex-direction:column;
